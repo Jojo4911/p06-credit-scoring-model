@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Donnees et artefacts lourds, hors depot
+input/
+mlartifacts/
+.ipynb_checkpoints/

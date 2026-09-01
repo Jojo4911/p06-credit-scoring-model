@@ -1,0 +1,23 @@
+artifact_path: file:c:/Users/jonat/Desktop/Cours en ligne/Formation AI Engineer/Projets/06/Projet/mlruns/1/models/m-3777f5c86d434e74aad6f9ef20e33f75/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.0
+model_id: m-3777f5c86d434e74aad6f9ef20e33f75
+model_size_bytes: 21454
+model_uuid: m-3777f5c86d434e74aad6f9ef20e33f75
+prompts: null
+run_id: 5dd8e36ded014dcd9c78eb193ae7dc99
+utc_time_created: '2026-02-25 19:46:26.227336'
