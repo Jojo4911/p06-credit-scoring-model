@@ -31,5 +31,5 @@ Input data and MLflow artifacts are excluded from this repository for size reaso
 ## Related
 
 The model in this repository is the one served by
-[P08 Credit Scoring MLOps](https://github.com/Jojo4911/pret-a-depenser), which
+[P08 Credit Scoring MLOps](https://github.com/Jojo4911/credit-scoring-mlops), which
 covers deployment, CI/CD and drift monitoring.
